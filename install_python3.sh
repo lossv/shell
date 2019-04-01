@@ -1,4 +1,4 @@
-#!/usr/bin/
+#!/bin/bash
 
 cd /home
 mkdir Download
